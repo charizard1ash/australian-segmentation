@@ -20,8 +20,8 @@ library(shinythemes)
 
 
 ### Set variables ###
-sqlite_db_location <- "/Volumes/AN/Data/SQLite/"
-r_func_location <- "/Users/minathaniel/Documents/R/R Scripts/Functions/"
+sqlite_db_location <- "..."
+r_func_location <- "..."
 no_cores <- detectCores()
 
 
